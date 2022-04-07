@@ -30,14 +30,3 @@
 
 // const toBuy = ["potato", "tomato","pizza"];
 // console.log(toBuy[2]);
-
-// Objects  // property(특성)
-const player = {
-  name: "cho",
-  points: 10,
-  fat: false,
-};
-console.log(player);
-player.lastName = "potato";
-player.points = player.points + 15;
-console.log(player.points);
