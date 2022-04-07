@@ -38,4 +38,3 @@
 // console.log(divResult);
 // console.log(multiResult);
 // console.log(powerResult);
-//
