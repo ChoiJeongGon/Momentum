@@ -1,2 +1,3 @@
-print("Hello world");
-print("test test");
+const title = document.querySelector(".hello h1");
+
+title.innerText = "Hello";
